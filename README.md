@@ -66,7 +66,6 @@ Generally, store your embedded images in your repo if they are original, or refe
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
-![image](https://www.pexels.com/photo/portrait-of-a-dog-257540/)
 
 ## Paragraphs
 
