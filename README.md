@@ -88,6 +88,3 @@ Denise Case
 
 dcase@nwmissouri.edu
 
-## About
-
-Leela krishna
