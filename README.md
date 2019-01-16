@@ -15,6 +15,10 @@ A short README.md that explains how to get started with Markdown, a super-simple
 1. Allow GitHub to draft a README.md. 
 1. Choose a license if desired. 
 
+## About
+
+Leela krishna
+
 ## GitHub Pages
 
 While viewing your new repository in GitHub, click the repo Settings icon (looks like a gear). 
